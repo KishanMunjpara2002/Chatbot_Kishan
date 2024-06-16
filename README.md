@@ -44,7 +44,6 @@ Check out the [demo video](link_to_demo_video) to see Kishan ChatBot in action!
 ## Acknowledgements
 
 - This project utilizes the Hugging Face Transformers library.
-- Special thanks to [Kishan Munjpara](https://www.linkedin.com/in/kishanmunjpara/) for inspiration.
 
 ## License
 
