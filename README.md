@@ -13,7 +13,7 @@ Kishan ChatBot is a conversational agent powered by the Meta-Llama-3-8B-Instruct
 
 ## Demo
 
-Check out the [demo video](https://drive.google.com/file/d/1j-AT1FqSzbxLZxjZ5NPAgMbcQ43qR8PX/view?usp=drive_link)) to see Kishan ChatBot in action!
+Check out the [demo video]((https://drive.google.com/file/d/1j-AT1FqSzbxLZxjZ5NPAgMbcQ43qR8PX/view?usp=drive_link)) to see Kishan ChatBot in action!
 
 
 ## Usage
