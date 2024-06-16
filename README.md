@@ -49,6 +49,3 @@ Check out the [demo video](https://drive.google.com/file/d/1j-AT1FqSzbxLZxjZ5NPA
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Make sure to replace `link_to_demo_video` with the actual link to your demo video. You can add more details or sections to the README as needed.
