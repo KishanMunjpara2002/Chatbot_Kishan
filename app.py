@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import torch
 import requests
@@ -114,6 +113,7 @@ def main():
             {"role": "assistant", "content": "How may I assist you today"}]
 
     st.sidebar.button('Clear Chat History', on_click=clear_chat_history)
+
 
 if __name__ == '__main__':
     main()
